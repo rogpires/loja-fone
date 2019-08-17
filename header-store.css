@@ -1,6 +1,3 @@
-body {
-    font-family: "Roboto", sans-serif;
-  }
   .header-store {
     background-color: #e24647;
     color: #ffffff;
@@ -17,6 +14,7 @@ body {
   
   .navigation {
     font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
     float: right;
   }
   
@@ -26,7 +24,7 @@ body {
     margin-left: 55px;
   }
 
-  .last {
+  .last{
     margin-right: 0;
   }
   
@@ -43,6 +41,3 @@ body {
 
   }
 
-  #last {
-    margin-right: 0px;
-  }
